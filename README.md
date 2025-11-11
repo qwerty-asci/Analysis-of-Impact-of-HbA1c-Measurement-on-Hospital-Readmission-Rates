@@ -1,0 +1,2 @@
+# Analysis-of-Impact-of-HbA1c-Measurement-on-Hospital-Readmission-Rates
+In this repository, an analysis is performed on the dataset presented in “Impact of HbA1c Measurement on Hospital Readmission Rates: Analysis of 70,000 Clinical Database Patient Records,” BioMed Research International, vol. 2014, Article ID 781670, 11 pages, 2014, in order to study the influence of HbA1c levels on hospital readmission rates.
